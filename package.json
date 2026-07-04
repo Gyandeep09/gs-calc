@@ -1,0 +1,15 @@
+{
+  "name": "g-calc-public",
+  "version": "1.0.0",
+  "description": "An advanced 3D interactive calculator experience",
+  "main": "dist/calculator.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "author": "Gyandeep Dehingia",
+  "license": "MIT"
+}
